@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "id": "0acf",
+      "username": "slama",
+      "password": "0102030"
+    },
+    {
+      "id": "b5f1",
+      "username": "mazen",
+      "password": "0102040"
+    },
+    {
+      "id": "f6a2",
+      "username": "fawazislam70@gmail.com",
+      "password": "F123456789"
+    },
+    {
+      "id": "579f",
+      "username": "islam",
+      "password": "a32134",
+      "email": "islam33@gmail.com",
+      "phone": "01272582461"
+    },
+    {
+      "id": "4c4a",
+      "username": "fawazislam70@gmail.com",
+      "password": "Fawaz1234",
+      "email": "islam33@gmail.com",
+      "phone": "01272582461"
+    }
+  ],
+  "todos": [
+    {
+      "id": "c0bc",
+      "completed": false,
+      "task": "play",
+      "userId": "b5f1"
+    },
+    {
+      "id": "3983",
+      "completed": false,
+      "task": "SDF",
+      "userId": "4c4a"
+    },
+    {
+      "id": "e510",
+      "completed": false,
+      "task": "ASDF",
+      "userId": "4c4a"
+    },
+    {
+      "id": "9207",
+      "completed": false,
+      "task": "ASDFSDF",
+      "userId": "4c4a"
+    },
+    {
+      "id": "06f5",
+      "completed": false,
+      "task": "DFASFD",
+      "userId": "4c4a"
+    },
+    {
+      "id": "0fa6",
+      "completed": true,
+      "task": "ioou"
+    },
+    {
+      "id": "f63e",
+      "completed": true,
+      "task": "gjg"
+    },
+    {
+      "id": "cc7a",
+      "completed": false,
+      "task": "C#"
+    },
+    {
+      "id": "a8db",
+      "completed": true,
+      "task": "problem solving"
+    },
+    {
+      "id": "2638",
+      "completed": false,
+      "task": "sasfasdf"
+    },
+    {
+      "id": "2aad",
+      "completed": false,
+      "task": ".Net"
+    },
+    {
+      "id": "f0ef",
+      "completed": false,
+      "task": "asfdd"
+    },
+    {
+      "id": "8c37",
+      "completed": false,
+      "task": "fsadfsa"
+    }
+  ]
+}
